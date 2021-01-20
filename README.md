@@ -48,7 +48,7 @@ I have used Java generics previously in Android dev when implementing the adapte
 
 ## Regarding SOLID Concept
 
-+ **S** Single Responsibility Principle, regarding this principle I have learned it and use it many times during my Internship. The main idea of this principle is that we never give a function a method more than one specific task.
++ **S** Single Responsibility Principle, regarding this principle I have learned it and use it many times during my Internship. The main idea of this principle is that we never give a function or method more than one specific task.
 + **O** Open closed principle, Entities should be open to extension but closed to modification, I have not used this principle that much so far, or maybe i have used it unintentionally.
 + **L** Liskov substitution principle, I don't know this principle and I have not used it to what I remember, but the main idea of the principle is that objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 + **I** Interface segregation principle.
