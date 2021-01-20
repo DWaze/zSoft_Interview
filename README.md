@@ -52,7 +52,7 @@ I have used Java generics previously in Android dev when implementing the adapte
 + **O** Open closed principle, Entities should be open to extension but closed to modification, I have not used this principle that much so far, or maybe i have used it unintentionally.
 + **L** Liskov substitution principle, I don't know this principle and I have not used it to what I remember, but the main idea of the principle is that objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 + **I** Interface segregation principle.
-+ **D** Dependency Inversion principle, This principle is the same as the one Used in Spring framework in the IOC container, instead of having a tight dependency between classes by directly initiating using new, we use Annotation to declare beans and then give the task of charging dependencies to the framework.
++ **D** Dependency Inversion principle, This principle is the same as the one used in Spring framework in the IOC container, instead of having a tight dependency between classes by directly initiating using "new" , we use Annotation to declare beans and then give the task of charging dependencies to the framework.
 
 
 
